@@ -13,6 +13,10 @@ https://www.nytimes.com/puzzles/letter-boxed
 # Here is the user interface of how to type in the letters from each side of the box:
 ![Description of the image](img/letterbox.png)
 # Here is the solutions that it provided based on the daily Letter Boxed Game:
+![Description of the image](img/solutions.png)
+
+# Congratulations! You've solved the game for the day!
 ![Description of the image](img/solved.png)
+
 # The solution and the Letter Box layout from the New York Times Letter Boxed Game
 ![Description of the image](img/solved1.png)
